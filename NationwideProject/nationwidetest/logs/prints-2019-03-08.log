@@ -1,0 +1,6 @@
+10:09:41.522 [main] INFO  stepDefinition.stepDefinition - Successfully verified page heading
+10:17:46.428 [main] INFO  stepDefinition.stepDefinition - Driver Initialized
+10:17:49.733 [main] INFO  stepDefinition.stepDefinition - Navigated to Nationwide HomePage
+10:18:00.226 [main] INFO  stepDefinition.stepDefinition - Successfully navigated to New Customer Mortgage rates
+10:18:01.735 [main] INFO  stepDefinition.stepDefinition - Successfully entered the property check values
+10:18:08.931 [main] INFO  stepDefinition.stepDefinition - Successfully filtered results and verifying more info for 5 yr Fixed
